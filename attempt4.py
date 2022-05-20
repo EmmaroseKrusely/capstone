@@ -3,6 +3,8 @@
 
 # In[3]:
 
+#This was made in Juypter, but saved as a python file
+
 
 import GetOldTweets3 as got
 import pandas as pd
